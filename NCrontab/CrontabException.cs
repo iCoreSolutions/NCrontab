@@ -17,7 +17,7 @@
 // limitations under the License.
 //
 #endregion
-
+#nullable enable
 using System;
 
 namespace NCrontab;
